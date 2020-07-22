@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "773865046688",
+    "firebase_url": "https://listaprodutos-68177.firebaseio.com",
+    "project_id": "listaprodutos-68177",
+    "storage_bucket": "listaprodutos-68177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773865046688:android:ffe8e8ec0dbd6ff8887fc5",
+        "android_client_info": {
+          "package_name": "com.example.promocao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773865046688-4ip1f35k1n5pq3emf5801evo0e02nv1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGo53OtL3iFLkbOSqic2qynateG_Y9mbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773865046688-4ip1f35k1n5pq3emf5801evo0e02nv1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773865046688:android:3f81d3a1b5b5ad33887fc5",
+        "android_client_info": {
+          "package_name": "com.example.testando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773865046688-4ip1f35k1n5pq3emf5801evo0e02nv1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGo53OtL3iFLkbOSqic2qynateG_Y9mbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773865046688-4ip1f35k1n5pq3emf5801evo0e02nv1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773865046688:android:21dc62ef729a81a1887fc5",
+        "android_client_info": {
+          "package_name": "com.lhsilva.listaprodutos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773865046688-4ip1f35k1n5pq3emf5801evo0e02nv1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGo53OtL3iFLkbOSqic2qynateG_Y9mbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773865046688-4ip1f35k1n5pq3emf5801evo0e02nv1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
